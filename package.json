@@ -1,1 +1,8 @@
-{}
+{
+  "name":"@jonyk56/htmldb-logger",
+  "version":"0.0.1",
+  "description":"Bind everything to a logger",
+  "dependencies":{
+    "htmldb":"github:jonyk56/html-db-official#d899326"
+  }
+}
