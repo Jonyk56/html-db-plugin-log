@@ -1,0 +1,1 @@
+const { Plugin } = require("htmldb")
